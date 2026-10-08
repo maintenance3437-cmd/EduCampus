@@ -1,1 +1,0 @@
-Al iniciar cualquier conversación, lee docs/CONTEXT.md, docs/PROGRESS.md y docs/DECISIONS.md antes de hacer cualquier cosa. Al terminar cada tarea, actualiza docs/PROGRESS.md, y docs/DECISIONS.md si hubo cambios de diseño. Si algo del código contradice docs/educampus_documentacion.md, avísame en lugar de decidir por tu cuenta.
